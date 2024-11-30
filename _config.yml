@@ -1,6 +1,7 @@
 title: Jujordan.github.io
 description: Freshmen Data Scientist
 
-![My Headshot](MTU_headshot.jpg)
+<img src="{{ site.baseurl }}/MTU_headshot.jpg" alt="My Headshot" class="img-fluid">
+
 
 theme: jekyll-theme-cayman
