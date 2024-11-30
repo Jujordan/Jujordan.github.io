@@ -7,7 +7,7 @@
 # About me 
 36 year old Data Scientist freshmen with an interest in data and statistics. I like transforming data and pulling meaningful decision making insights out.
 
-Skills: Java, BASH, Microsoft suite of programs, Python, analysis and data transformation, Markdown, GitHub
+Skills: Java, BASH, Excel, Python, analysis and data transformation, Markdown, GitHub
 
 ---
 # Projects
