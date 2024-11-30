@@ -9,4 +9,4 @@
 
 ---
 # Projects
-[Check out my data1201 class repository where we learned bash scripting, linux command line navigation and practiced essential github sharing and version control techniques](https://github.com/Jujordan/data1201)
+  [Check out my data1201 class repository where we learned bash scripting, linux command line navigation and practiced essential github sharing and version control techniques](https://github.com/Jujordan/data1201)
