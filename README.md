@@ -8,4 +8,5 @@
 36 year old Data Scientist freshmen with an interest in data and statistics. I like transforming data and pulling meaningful decision making insights out.
 
 ---
+# Projects
 [Check out my data1201 class repository where we learned bash scripting, linux command line navigation and practiced essential github sharing and version control techniques](https://github.com/Jujordan/data1201)
