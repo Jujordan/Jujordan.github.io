@@ -1,4 +1,6 @@
 title: Jujordan.github.io
 description: Freshmen Data Scientist
-MTU_headshot.jpg
+
+![My Headshot](MTU_headshot.jpg)
+
 theme: jekyll-theme-cayman
