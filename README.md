@@ -15,6 +15,7 @@ Skills: Java, BASH, Excel, Python, analysis and data transformation, Markdown, G
 
 
 
-| --- | --- | --- |
-| --- | --- | --- |
-| --- | --- | --- |
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
