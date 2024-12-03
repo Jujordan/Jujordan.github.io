@@ -13,4 +13,4 @@ Skills: Java, BASH, Excel, Python, analysis and data transformation, Markdown, G
 
 ---
 # Projects
-  [Check out my data1201 class repository where we learned bash scripting, linux command line navigation and practiced essential github sharing and version control techniques](https://github.com/Jujordan/data1201)
+Check out my [data1201 class repository](https://github.com/Jujordan/data1201) where we learned bash scripting, linux command line navigation and practiced essential github sharing and version control techniques.
